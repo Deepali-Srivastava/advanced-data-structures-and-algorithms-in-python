@@ -5,7 +5,7 @@ This [“Advanced Data Structures and Algorithms in Python”]( https://www.udem
 ### About the Course
  * Thoroughly detailed course with complete working programs
  * Contains lots of animations to help you visualize the concepts
- * Includes AVL tree, BTree, Graph Algorithms 
+ * Includes Graph Algorithms, AVL tree, BTree, 
  * Builds a solid foundation in Data Structures and Algorithms
  * Prepares you for coding interviews 
  * Lifetime Access
