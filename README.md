@@ -1,4 +1,4 @@
-# Advanced Data Structures and Algorithms in Python
+# Advanced Data Structures and Algorithms ( DSA ) in Python
 
 This [Data Structures and Algorithms in Python](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-python-masterclass?coupon=GITHUB50) repository is for the students of my online course available on Udemy. It contains the source code of all the programs used in the course. 
 
